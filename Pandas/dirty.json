@@ -1,0 +1,10 @@
+{
+    "Duration" : 10,
+    "Date": "string",
+    "Pulse" : 10.5,
+    "Maxpulse" : 10,
+    "Calories" :20.0,
+    "Name": "string"
+
+
+}
